@@ -13,10 +13,10 @@
     Video playback: up to 13 hours\n
     Audio playback (via headset): up to 110 hours\n
     Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
-    <string name="_6_photos">6 Photos</string>
+    <string name="dummy_photos">6 Photos</string>
     <string name="google_pixel">Google Pixel</string>
-    <string name="_735">$735</string>
-    <string name="stock_product">Stock hanya 5 buah</string>
+    <string name="dummy_value">$735</string>
+    <string name="stock">Stock hanya 5 buah</string>
     <string name="spesifikasi">Spesifikasi</string>
     <string name="display">Display</string>
     <string name="size">Size</string>
